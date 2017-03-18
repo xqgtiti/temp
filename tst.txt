@@ -1,0 +1,17 @@
+2017-03-18 12:11:22,678 - test.py:31 - logging - first info message
+2017-03-18 12:11:22,762 - test.py:45 - logging - 1333
+2017-03-18 12:13:03,816 - test.py:79 - logging - update location set citylat = 37.7830159000, citylng = 29.0963328000 ,add_google = 'Denizli, Kumkısık Mahallesi, Denizli, Turkey' where address = 'Denizli,TR'save fail
+2017-03-18 12:15:17,068 - test.py:79 - logging - update location set citylat = 37.7830159000, citylng = 29.0963328000 ,add_google = 'Denizli, Kumkısık Mahallesi, Denizli, Turkey' where address = 'Denizli,Denizli,TR'save fail
+2017-03-18 12:17:44,327 - test.py:79 - logging - update location set citylat = 52.4063740000, citylng = 16.9251681000 ,add_google = 'Poznań, Poland' where address = 'Pozna?,PL'save fail
+2017-03-18 12:18:18,858 - test.py:79 - logging - update location set citylat = 17.1274104000, citylng = -61.8467720000 ,add_google = 'St John's, Antigua and Barbuda' where address = 'Saint John,AG'save fail
+2017-03-18 12:19:12,773 - test.py:72 - logging - list index out of range jiexi failTsche-mul-p-ho,KR
+2017-03-18 12:19:36,481 - test.py:79 - logging - update location set citylat = 52.4063740000, citylng = 16.9251681000 ,add_google = 'Poznań, Poland' where address = 'Pozna?,wielkopolskie,PL'save fail
+2017-03-18 12:19:53,013 - test.py:72 - logging - list index out of range jiexi failAl ?amm?m?t,Nabeul,TN
+2017-03-18 12:20:05,114 - test.py:79 - logging - update location set citylat = 23.9552340000, citylng = 120.6873520000 ,add_google = '540, Taiwan, 南投縣南投市中興新村' where address = 'Zhongxing New Village,Taichung City,TW'save fail
+2017-03-18 12:20:32,885 - test.py:79 - logging - update location set citylat = 52.2037457000, citylng = 20.4476473000 ,add_google = 'Seroki-Wieś, Poland' where address = 'Seroki-Wie?,mazowieckie,PL'save fail
+2017-03-18 12:21:07,989 - test.py:72 - logging - list index out of range jiexi failAdachi-ku,T?ky?-to,JP
+2017-03-18 12:21:12,515 - test.py:72 - logging - list index out of range jiexi failRoseau,Saint Joseph Parish,DM
+2017-03-18 12:21:27,453 - test.py:79 - logging - update location set citylat = 50.3919000000, citylng = 30.3682670000 ,add_google = 'Vyshneve, Kyivs'ka oblast, Ukraine' where address = 'Vyshneve,Kyivska oblast,UA'save fail
+2017-03-18 12:21:44,840 - test.py:72 - logging - list index out of range jiexi fail?ta-ku,T?ky?-to,JP
+2017-03-18 12:22:27,097 - test.py:72 - logging - list index out of range jiexi failOtopeni,Jude?ul Ilfov,RO
+2017-03-18 12:22:27,589 - test.py:72 - logging - list index out of range jiexi failBu?teni,Jude?ul Prahova,RO
